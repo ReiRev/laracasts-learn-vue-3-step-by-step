@@ -49,3 +49,14 @@
 - [ ] Copy the `section`s in the episode 3 and paste them to `template` of `App.js`. Similarly, copy and paste `data` and `computed`. You can copy the code from [here](https://github.com/ReiRev/laracasts-learn-vue-3-step-by-step/blob/03-lists-conditionals-and-computed-properties/index.html).
 - [ ] Create `Assignments`, `AssignmentList`, `Assignment` component and move the existing code to them.
 - [ ] Create `filter` computed property in `Assignment`.
+  
+### 08-Handle a Form Submission
+
+- [ ] Refactor the styles of components.
+  - [ ] Make the background of the page gray and text white. 
+  - [ ] Add the border and divider to each assignment list. 
+  - [ ] Align the checkboxes.
+- [ ] Add a form to add a new assignment. Make it looks better.
+- [ ] Show the alert when the form is submitted. Prevent page reload.
+- [ ] Show the content of the textbox in the alert.
+- [ ] Add the new assignment to In Progress list.
