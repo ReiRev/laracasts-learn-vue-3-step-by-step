@@ -43,3 +43,9 @@
 - [ ] Set default value of `type` property to `primary`.
 - [ ] Change the style of the `app-button` based on the value of `type` property. The possible values are `primary`, `secondary`, `muted`.
 - [ ] Change the `processing` to a property. Then show the spinner when `processing` is true. You can get the spinner snippet from [here](https://stephanwagner.me/only-css-loading-spinner).
+
+### 07-Bring it All Together
+
+- [ ] Copy the `section`s in the episode 3 and paste them to `template` of `App.js`. Similarly, copy and paste `data` and `computed`. You can copy the code from [here](https://github.com/ReiRev/laracasts-learn-vue-3-step-by-step/blob/03-lists-conditionals-and-computed-properties/index.html).
+- [ ] Create `Assignments`, `AssignmentList`, `Assignment` component and move the existing code to them.
+- [ ] Create `filter` computed property in `Assignment`.
