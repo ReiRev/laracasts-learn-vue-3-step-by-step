@@ -35,3 +35,11 @@
 
 - [ ] Move `app-button` component to a single file.
 - [ ] Fix `index.html` so that it works the same as before.
+
+### 06-Component Props
+
+- [ ] Move `App` component to a single file and fix `index.html`.
+- [ ] Add `type` property to the `app-button` and set it to `primary`. Check if it works properly.
+- [ ] Set default value of `type` property to `primary`.
+- [ ] Change the style of the `app-button` based on the value of `type` property. The possible values are `primary`, `secondary`, `muted`.
+- [ ] Change the `processing` to a property. Then show the spinner when `processing` is true. You can get the spinner snippet from [](https://stephanwagner.me/only-css-loading-spinner).
