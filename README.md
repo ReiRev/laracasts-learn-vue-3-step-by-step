@@ -60,3 +60,8 @@
 - [ ] Show the alert when the form is submitted. Prevent page reload.
 - [ ] Show the content of the textbox in the alert.
 - [ ] Add the new assignment to In Progress list.
+
+### 09-Parent-Child State Communication
+
+- [ ] Create `AssignmentCreate` component and achieve the same functionality with passing `assignments` prop.
+- [ ] Achieve the same functionality with the [event handling](https://vuejs.org/guide/essentials/event-handling.html).
