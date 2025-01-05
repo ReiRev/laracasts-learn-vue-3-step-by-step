@@ -65,3 +65,12 @@
 
 - [ ] Create `AssignmentCreate` component and achieve the same functionality with passing `assignments` prop.
 - [ ] Achieve the same functionality with the [event handling](https://vuejs.org/guide/essentials/event-handling.html).
+
+### 10-It's All So Easy
+
+- [ ] Display the number of assignments next to the heading.
+- [ ] Setup the fake tags in `AssignmentList` and show them at the bottom of the heading as buttons. Style the appearance.
+- [ ] Add a tag to each assignment data. Replace the fake tags in the previous todo.
+- [ ] When the tag button is clicked, only show the assignments with that tag.
+- [ ] Add an "all" button, which shows all assignments.
+- [ ] Highlight the selected tag.
