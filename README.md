@@ -30,3 +30,8 @@
 - [ ] Create a `app-button` component which is gray but become darker when it's hovered. Show it in the browser.
 - [ ] Show the text content in the `app-button`.
 - [ ] When the property `processing` is true, don't allow the cursor.
+
+### 05-One Vue Component Per File
+
+- [ ] Move `app-button` component to a single file.
+- [ ] Fix `index.html` so that it works the same as before.
