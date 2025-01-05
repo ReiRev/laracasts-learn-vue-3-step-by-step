@@ -24,3 +24,9 @@
 - [ ] Divide the section into "In Progress" and "Completed". Show proper assignments in each sections.
 - [ ] Show the "Completed" section only if there are corresponding assignments. Try two different ways.
 - [ ] Use computed properties to do the same things.
+
+### 04-Your First Custom Vue Components
+
+- [ ] Create a `app-button` component which is gray but become darker when it's hovered. Show it in the browser.
+- [ ] Show the text content in the `app-button`.
+- [ ] When the property `processing` is true, don't allow the cursor.
