@@ -42,4 +42,4 @@
 - [ ] Add `type` property to the `app-button` and set it to `primary`. Check if it works properly.
 - [ ] Set default value of `type` property to `primary`.
 - [ ] Change the style of the `app-button` based on the value of `type` property. The possible values are `primary`, `secondary`, `muted`.
-- [ ] Change the `processing` to a property. Then show the spinner when `processing` is true. You can get the spinner snippet from [](https://stephanwagner.me/only-css-loading-spinner).
+- [ ] Change the `processing` to a property. Then show the spinner when `processing` is true. You can get the spinner snippet from [here](https://stephanwagner.me/only-css-loading-spinner).
