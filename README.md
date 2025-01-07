@@ -74,3 +74,7 @@
 - [ ] When the tag button is clicked, only show the assignments with that tag.
 - [ ] Add an "all" button, which shows all assignments.
 - [ ] Highlight the selected tag.
+
+### 11-Component Responsibility
+
+- [ ] Create `AssignmentTag.js` and achieve the same functionality.
