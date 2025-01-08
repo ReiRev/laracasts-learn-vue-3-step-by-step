@@ -5,8 +5,10 @@ export default {
             class="border rounded px-1 py-px text-xs"
             :class="{
                 'border-blue-500 text-blue-500': tag===currentTag
-            }"
-        >{{tag}}</button>
+            }">
+                {{tag}}
+            </button>
+        </div>
     `,
     props: {
         initialTags: Array,
