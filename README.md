@@ -87,3 +87,6 @@
 ### 13-Lifecycle Hooks, Fake APIs, and AJAX
 
 - [ ] Install json-server as a dev dependency.
+- [ ] Move assignments data from Assignments.js to db.json. Run fake API server.
+- [ ] Output the result of the request to fake API to console.log. Send the request when the component is created.
+- [ ] Assign the result of fake API to assignments.
