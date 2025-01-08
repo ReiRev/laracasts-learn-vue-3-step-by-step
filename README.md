@@ -83,3 +83,7 @@
 
 - [ ] Use v-model for AssignmentTag to achieve bidirectional binding.
 - [ ] Add an argument to the v-model and achieve the same thing.
+
+### 13-Lifecycle Hooks, Fake APIs, and AJAX
+
+- [ ] Install json-server as a dev dependency.
