@@ -77,4 +77,9 @@
 
 ### 11-Component Responsibility
 
-- [ ] Create `AssignmentTag.js` and achieve the same functionality.
+- [ ] Create `AssignmentTag.js` and achieve the same functionality. Achieve bidirectional communication of the currentTag value using an event handler.
+
+### 12-A Deeper Look at V-Model
+
+- [ ] Use v-model for AssignmentTag to achieve bidirectional binding.
+- [ ] Add an argument to the v-model and achieve the same thing.
