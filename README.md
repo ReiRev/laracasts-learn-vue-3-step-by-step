@@ -97,3 +97,11 @@
 - [ ] Align "In Progress" and "Completed" side by side. Set a fixed width for the AssignmentList. 
 - [ ] Put the input box at the bottom of "In Progress" by using slot.
 - [ ] Create a hide button and show it only if the list is not "In Progress". If the button is clicked, hide the list.
+
+### 15-Named Slots
+
+- [ ] Add background color to AssignmentList.
+- [ ] Create a Panel.js, which show heading and slot with different slots. Show some text by using Panel.
+- [ ] Show the heading only if the heading slot is specified.
+- [ ] Add a footer to Panel.js and accept footer as a slot.
+- [ ] Add a theme prop to Panel and change the style based on it. Add a footer to AssignmentList.
