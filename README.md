@@ -105,3 +105,10 @@
 - [ ] Show the heading only if the heading slot is specified.
 - [ ] Add a footer to Panel.js and accept footer as a slot.
 - [ ] Add a theme prop to Panel and change the style based on it. Add a footer to AssignmentList.
+
+### 16-vite
+
+- [ ] Create a vue project. Add a Vue router but not Pinia.
+- [ ] Run the server and get yourself familiar with the project.
+- [ ] Copy HomeView and create a Contact page. Make it accessible from `/contact`.
+- [ ] Add a link to the contact page in homepage.
