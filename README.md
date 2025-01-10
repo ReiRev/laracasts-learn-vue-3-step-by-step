@@ -90,3 +90,10 @@
 - [ ] Move assignments data from Assignments.js to db.json. Run fake API server.
 - [ ] Output the result of the request to fake API to console.log. Send the request when the component is created.
 - [ ] Assign the result of fake API to assignments.
+
+### 14-More Flexible Components With Slots and Flags
+
+- [ ] Write the script in package.json to run both the server and fake API server.
+- [ ] Align "In Progress" and "Completed" side by side. Set a fixed width for the AssignmentList. 
+- [ ] Put the input box at the bottom of "In Progress" by using slot.
+- [ ] Create a hide button and show it only if the list is not "In Progress". If the button is clicked, hide the list.
