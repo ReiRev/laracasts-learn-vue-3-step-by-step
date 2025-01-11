@@ -112,3 +112,8 @@
 - [ ] Run the server and get yourself familiar with the project.
 - [ ] Copy HomeView and create a Contact page. Make it accessible from `/contact`.
 - [ ] Add a link to the contact page in homepage.
+
+### 17-Little Confusing things
+
+- [ ] Get yourself familiar with [RouterLink and RouterView](https://router.vuejs.org/guide/).
+- [ ] Understand "The" prefix in components.
