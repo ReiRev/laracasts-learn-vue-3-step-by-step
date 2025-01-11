@@ -124,3 +124,8 @@
 
 Note: Reactivity Transform is now [deprecated](https://github.com/vuejs/rfcs/discussions/369#discussioncomment-5059028).
 
+### 19-From Mixins to Composables
+
+- [ ] Install [sweetalert](https://github.com/t4t5/sweetalert).
+- [ ] Create a composable which takes title, message, level as arguments. 
+- [ ] Shot buttons on welcome and about page. When the buttons are clicked, show sweet alert.
