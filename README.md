@@ -117,3 +117,10 @@
 
 - [ ] Get yourself familiar with [RouterLink and RouterView](https://router.vuejs.org/guide/).
 - [ ] Understand "The" prefix in components.
+
+### 18-Two Mental Leaps to Script Setup
+
+- [ ] Edit HomeView.vue and show the value of a message variable. Bind the variable to text input. Use composition API.
+
+Note: Reactivity Transform is now [deprecated](https://github.com/vuejs/rfcs/discussions/369#discussioncomment-5059028).
+
