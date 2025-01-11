@@ -138,3 +138,25 @@ Note: Reactivity Transform is now [deprecated](https://github.com/vuejs/rfcs/dis
 - [ ] Make the above logic composable.
 - [ ] Remove storage item if the input is empty.
 - [ ] Set a initial(default) value.
+
+### 21-Refactor to defineProps and defineEmits
+
+- [ ] Prevent tab in the textarea. You can use the following snippet.
+```javascript
+textarea.value.addEventListener('keydown', (e) => {
+  if (e.keyCode === 9) {
+    let val = textarea.value,
+      start = textarea.value.selectionStart,
+      end = textarea.value.selectionEnd
+
+    textarea.value = val.substring(0, start) + '\t' + val.substring(end)
+
+    textarea.value.selectionStart = textarea.value.selectionEnd = start + 1
+
+    e.preventDefault()
+  }
+})
+```
+- [ ] Refactor the code by using event handling.
+- [ ] Make TabbableTextarea component.
+- [ ] Make TabbableTextarea usable with v-model.
