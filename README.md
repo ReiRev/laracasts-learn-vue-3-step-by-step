@@ -129,3 +129,12 @@ Note: Reactivity Transform is now [deprecated](https://github.com/vuejs/rfcs/dis
 - [ ] Install [sweetalert](https://github.com/t4t5/sweetalert).
 - [ ] Create a composable which takes title, message, level as arguments. 
 - [ ] Shot buttons on welcome and about page. When the buttons are clicked, show sweet alert.
+
+### 20-Composable Examples: Local Storage
+
+- [ ] Create "What is your favorite food?" paragraph in HomeView.vue. Create an input for the answer. Prevent the value of the input from losing even if the page is reloaded.
+- [ ] Add "How old are you?" and do the same thing.
+- [ ] use `watch` to update input value.
+- [ ] Make the above logic composable.
+- [ ] Remove storage item if the input is empty.
+- [ ] Set a initial(default) value.
