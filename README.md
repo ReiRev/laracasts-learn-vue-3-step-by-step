@@ -194,3 +194,8 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Make `src/team.json` to an object which has name, spots, members as keys. Fix TeamView.
 - [ ] Create TeamHeader, TeamMembers, and TeamFooter component.
 
+### Build and Seed a Team Store
+
+- [ ] Create TeamStore.js. Use pinia and define state.
+- [ ] Add spotsRemaining getter and improve the components.
+- [ ] 
