@@ -184,3 +184,13 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Install pinia.
 - [ ] Refactor code.
 - [ ] Set the maximum count to 10. Show the remaining count in the button. Use pinia function. Disable the button when counter reach the maximum.
+
+### 26-Code Organization
+
+- [ ] Install tailwind([instruction](https://tailwindcss.com/docs/guides/vite#vue)). 
+- [ ] Copy [TeamView](https://github.com/ReiRev/laracasts-learn-vue-3-step-by-step/blob/b6880a13cfa04ab9292eae488604291d1bb80491/src/views/TeamView.vue). Change several related files to make sure that everything works well.
+- [ ] Replace table rows with TeamMember component.
+- [ ] Create `src/team.json` which represents members' info. Import it and show members' info.
+- [ ] Make `src/team.json` to an object which has name, spots, members as keys. Fix TeamView.
+- [ ] Create TeamHeader, TeamMembers, and TeamFooter component.
+
