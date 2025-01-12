@@ -179,3 +179,8 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Add a CounterView. Add it to the router. Add the link to the page in nav bar.
 - [ ] Add a button which increments the count. Use the technique explained in episode 23. Add increment function.
 
+### 25-Say Hello to Pinia
+
+- [ ] Install pinia.
+- [ ] Refactor code.
+- [ ] Set the maximum count to 10. Show the remaining count in the button. Use pinia function. Disable the button when counter reach the maximum.
