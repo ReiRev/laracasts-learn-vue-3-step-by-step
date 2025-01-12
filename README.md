@@ -160,3 +160,10 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Refactor the code by using event handling.
 - [ ] Make TabbableTextarea component.
 - [ ] Make TabbableTextarea usable with v-model.
+
+### 22-Dependency Injection With Provide and Inject
+
+- [ ] Copy Quiz files from [my commit](https://github.com/ReiRev/laracasts-learn-vue-3-step-by-step/tree/bdabde1e3c0c18b028885386816d1f3e9014242e/src/components/Quiz). Eslint may warn "Component name "Quiz" should always be multi-word.", but you can ignore it. Then copy [HomeView.vue](https://github.com/ReiRev/laracasts-learn-vue-3-step-by-step/blob/bdabde1e3c0c18b028885386816d1f3e9014242e/src/views/HomeView.vue).
+- [ ] Pass the value of heading in QuizFooter with dependency injection. 
+- [ ] Change the heading in QuizFooter to button. When the button is clicked, change the name to "changed". Use dependency injection to pass the changeName function.
+- [ ] Provide quiz prop by using dependency injection.
