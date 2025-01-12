@@ -173,4 +173,9 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Put the quiz prop passed to QuizComponent to `store/quizStore.js` as a `state` and import it.
 - [ ] Refactor the code.
 - [ ] Add a button to QuizFooterLinks. If the button is clicked, change the name of quiz to "A New Quiz Name". Also change the heading of QuizHeader to the name of the quiz.
-- [ ] 
+
+### 24-Direct Mutation Concerns
+
+- [ ] Add a CounterView. Add it to the router. Add the link to the page in nav bar.
+- [ ] Add a button which increments the count. Use the technique explained in episode 23. Add increment function.
+
