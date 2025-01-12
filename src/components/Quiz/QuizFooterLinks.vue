@@ -1,5 +1,6 @@
 <script setup>
-defineProps({ quiz: Object })
+import { inject } from 'vue'
+let quiz = inject('quiz')
 </script>
 
 <template>

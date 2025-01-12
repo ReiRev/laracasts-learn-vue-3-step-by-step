@@ -1,13 +1,12 @@
 <script setup>
 import QuizFooterLinks from '@/components/Quiz/QuizFooterLinks.vue'
-defineProps({
-  quiz: Object,
-})
+import { inject } from 'vue'
+let quiz = inject('quiz')
 </script>
 
 <template>
   <footer>
-    <h4>Quiz Footer</h4>
+    <h5>Quiz Footer</h5>
     <QuizFooterLinks :quiz="quiz" />
   </footer>
 </template>
