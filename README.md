@@ -167,3 +167,10 @@ textarea.value.addEventListener('keydown', (e) => {
 - [ ] Pass the value of heading in QuizFooter with dependency injection. 
 - [ ] Change the heading in QuizFooter to button. When the button is clicked, change the name to "changed". Use dependency injection to pass the changeName function.
 - [ ] Provide quiz prop by using dependency injection.
+
+### 23-Store State in an External File
+
+- [ ] Put the quiz prop passed to QuizComponent to `store/quizStore.js` as a `state` and import it.
+- [ ] Refactor the code.
+- [ ] Add a button to QuizFooterLinks. If the button is clicked, change the name of quiz to "A New Quiz Name". Also change the heading of QuizHeader to the name of the quiz.
+- [ ] 
